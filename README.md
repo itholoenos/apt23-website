@@ -25,6 +25,16 @@ See [SETUP_GUIDE.md](SETUP_GUIDE.md) for detailed setup and deployment instructi
 - Local development
 - Publishing to GitHub Pages
 
+## Publishing to GitHub Pages
+
+1. Commit your changes:
+   ```bash
+   git add .
+   git commit -m "Initial Jekyll site setup"
+   git push origin main
+   ```
+
+
 ## Project Structure
 
 - `_posts/` - Blog posts and news
